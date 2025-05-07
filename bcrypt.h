@@ -1,8 +1,6 @@
 #pragma once
 #include "pch.h"
 
-
-
 /*
 * Copyright(C) 2007 Francois Gouget
 *
@@ -20,6 +18,7 @@
 * License along with this library; if not, write to the Free Software
 * Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110 - 1301, USA
 */
+
 #ifndef __WINE_BCRYPT_H
 #define __WINE_BCRYPT_H
 
@@ -853,4 +852,5 @@ extern "C"
     );
 
 }
+
 #endif  /* __WINE_BCRYPT_H */

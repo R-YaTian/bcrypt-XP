@@ -1,6 +1,4 @@
-﻿// dllmain.cpp : Определяет точку входа для приложения DLL.
 #include "pch.h"
-
 
 /*
  * Copyright 2009 Henri Verbeet for CodeWeavers
@@ -22,8 +20,6 @@
  */
 
 #include <malloc.h>
-#include <ntstatus.h>
-#define WIN32_NO_STATUS
 #include <windef.h>
 #include <winbase.h>
 #include <ntsecapi.h>

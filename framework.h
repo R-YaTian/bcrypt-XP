@@ -1,5 +1,6 @@
-﻿#pragma once
+#pragma once
 
-#define WIN32_LEAN_AND_MEAN             // Исключите редко используемые компоненты из заголовков Windows
-// Файлы заголовков Windows
+#include <ntstatus.h>
+#define WIN32_LEAN_AND_MEAN
+#define WIN32_NO_STATUS
 #include <windows.h>

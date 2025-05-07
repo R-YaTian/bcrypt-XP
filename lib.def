@@ -57,4 +57,4 @@ BCryptSetProperty						@54
 BCryptSignHash							@55
 BCryptUnregisterConfigChangeNotify		@56
 BCryptUnregisterProvider				@57
-BCryptVerifySignature					@58				
+BCryptVerifySignature					@58
